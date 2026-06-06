@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "Premium High-Fidelity TikTok and Social Video Downloader supporting no-watermark video parsing, audio downloading, search history workspace, and inline previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
